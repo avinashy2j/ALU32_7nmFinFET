@@ -4,7 +4,7 @@
 
     alu.v : Verilog Implementation
     alu32_mapped.v : Gate level netlist
-    area.rpt : Area Rport
+    area.rpt : Area Report
     timing.rpt : Timing report
     qor.rpt : qor report
     Schematic.pdf : Schematic of design
