@@ -10,8 +10,8 @@ Date   : Tue Sep 17 19:15:34 2019
 
 Library(s) Used:
 
-    asap7sc7p5t_22b_SIMPLE_LVT_TT_170906 (File: /export/home1/aviyadav/Projects/alu/dc/models/asap7sc7p5t_SIMPLE_LVT_TT.db)
-    asap7sc7p5t_22b_INVBUF_LVT_TT_170906 (File: /export/home1/aviyadav/Projects/alu/dc/models/asap7sc7p5t_INVBUF_LVT_TT.db)
+    asap7sc7p5t_22b_SIMPLE_LVT_TT_170906 (File: /remote/dc/models/asap7sc7p5t_SIMPLE_LVT_TT.db)
+    asap7sc7p5t_22b_INVBUF_LVT_TT_170906 (File: /remote/dc/models/asap7sc7p5t_INVBUF_LVT_TT.db)
 
 
 Operating Conditions: PVT_0P7V_25C   Library: asap7sc7p5t_22b_SIMPLE_LVT_TT_170906
