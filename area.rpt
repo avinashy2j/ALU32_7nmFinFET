@@ -1,0 +1,31 @@
+ 
+****************************************
+Report : area
+Design : ALU32
+Version: O-2018.06-SP5-2
+Date   : Tue Sep 17 19:15:57 2019
+****************************************
+
+Library(s) Used:
+
+    asap7sc7p5t_22b_SIMPLE_LVT_TT_170906 (File: /export/home1/aviyadav/Projects/alu/dc/models/asap7sc7p5t_SIMPLE_LVT_TT.db)
+    asap7sc7p5t_22b_INVBUF_LVT_TT_170906 (File: /export/home1/aviyadav/Projects/alu/dc/models/asap7sc7p5t_INVBUF_LVT_TT.db)
+
+Number of ports:                          532
+Number of nets:                          6937
+Number of cells:                         5587
+Number of combinational cells:           5583
+Number of sequential cells:                 0
+Number of macros/black boxes:               0
+Number of buf/inv:                       1668
+Number of references:                      19
+
+Combinational area:               7658.582366
+Buf/Inv area:                     1168.499535
+Noncombinational area:               0.000000
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                  7658.582366
+Total area:                 undefined
+1
