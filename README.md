@@ -1,6 +1,6 @@
 # ALU32_7nmFinFET
 
-# Syntehis: Design Compiler
+# Design Compiler : Logic Synthesis
 
     alu.v : Verilog Implementation
     alu_mapped.v : Gate level netlist
