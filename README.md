@@ -18,6 +18,6 @@
 # Place & Route: Cadence Innovus
 
     standardcells.png : Standard cell sitting of rows
-    design.png : Design with PG nets
+    design.png : Optimized design with PG nets
     
    
