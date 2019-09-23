@@ -15,3 +15,9 @@
     alu_mapped.pdf : Implemented Container Schematic
     
    
+# Place & Route: Cadence Innovus
+
+    standardcells.png : Standard cell sitting of rows
+    design.png : Design with PG nets
+    
+   
