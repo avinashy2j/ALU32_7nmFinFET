@@ -53,10 +53,7 @@ begin
 		alu_value = (a>b) ? 32'd1 : 32'd0;
 	4'b1111:
 		alu_value = (a==b) ? 32'd1 : 32'd0;
-	default:
-		begin
-		alu_value = alu_value;
-		end
+	
        endcase
 
 end
