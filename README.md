@@ -2,7 +2,7 @@
 
 # Design Compiler : Logic Synthesis
 
-    alu.v : Verilog Implementation
+    ALU.v : Verilog Implementation
     alu32_mapped.v : Gate level netlist
     area.rpt : Area Report
     timing.rpt : Timing report
